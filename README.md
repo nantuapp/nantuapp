@@ -23,11 +23,11 @@ Nantu is a battle-tested, open-source A/B testing platform that seamlessly integ
 **Table of Contents**
 ---------------------
 
--   [Get Started](https://github.com/nantuapp/nantu-gtm-template#get-started)
--   [Components](https://github.com/nantuapp/nantu-gtm-template#components)
--   [Open Source vs Professional Services](https://github.com/nantuapp/nantu-gtm-template#open-source-vs-professional-services)
--   [Contributing](https://github.com/nantuapp/nantu-gtm-template#contributing)
--   [Documentation](https://github.com/nantuapp/nantu-gtm-template#documentation)
+-   [Get Started](https://github.com/nantuapp#get-started)
+-   [Components](https://github.com/nantuapp#components)
+-   [Open Source vs Professional Services](https://github.com/nantuapp#open-source-vs-professional-services)
+-   [Contributing](https://github.com/nantuapp#contributing)
+-   [Documentation](https://github.com/nantuapp#documentation)
 
 **Get Started**
 ---------------
